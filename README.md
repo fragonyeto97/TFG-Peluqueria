@@ -1,6 +1,6 @@
-# TFG - Aplicación de Gestión de Peluquería
+# TFG - Aplicación web Peluquería
 
-Proyecto de TFG: aplicación para gestionar citas y clientes en una peluquería.
+Proyecto de TFG de DAM: aplicación para gestionar citas y clientes en una peluquería.
 
 ## Contenido del repositorio
 - Código de la aplicación (PHP, HTML, CSS)
